@@ -8,6 +8,7 @@ When a user contacts a client, he redirects the user to the Open ID Connect Prov
 ![Alt-текст](https://hsto.org/getpro/habr/post_images/c13/afc/ee5/c13afcee5226ddb135df9836d3321b17.png "Authentication process")
 
 ## Links to project repositories
+- :white_check_mark:[NewsPaper Review](https://github.com/PKravchenko-ki16/NewsPaper)
 - :white_check_mark:[NewsPaper.MassTransit.Configuration](https://github.com/PKravchenko-ki16/NewsPaper.MassTransit.Configuration)
 - :white_check_mark:[NewsPaper.MassTransit.Contracts](https://github.com/PKravchenko-ki16/NewsPaper.MassTransit.Contracts)
 - :white_check_mark:NewsPaper.IdentityServer
