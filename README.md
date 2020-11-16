@@ -5,7 +5,7 @@ This is IdentityServer4 with authentication and authorization on ASP.NET Core 3.
 ## Authentication process
 
 When a user contacts a client, he redirects the user to the Open ID Connect Provider, which asks the user for a login and password. If successful, it returns an identity token and an access token, with which the user can access the protected resource.
-![Alt-текст](https://hsto.org/getpro/habr/post_images/c13/afc/ee5/c13afcee5226ddb135df9836d3321b17.png "Authentication process")
+![Alt-текст](https://user-images.githubusercontent.com/26356921/99260845-fb9d6380-282c-11eb-9380-35a91faf6281.png "Authentication process")
 
 ## Links to project repositories
 - :white_check_mark:[NewsPaper Review](https://github.com/PKravchenko-ki16/NewsPaper)
